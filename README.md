@@ -201,7 +201,7 @@ Remove all vectors for a specific document.
 | `USE_REDIS`     | `false` | Enable Redis query caching               |
 | `OPENAI_API_KEY`| —       | Required when `USE_OPENAI=true`          |
 | `PORT`          | `6000`  | HTTP server port                         |
-| `MONGO_URI`     | —       | https://cloud.mongodb.com/v2/69fc6df325e8bc120dd28d7d#/explorer/69fc6e113ca003f5a95f8ef6/test/vectors/find               |
+| `MONGO_URI`     | —       | https://cloud.mongodb.com/v2/69fc116df325e8bc120dd28d7d#/explorer/69fc6e113ca003f5a95f8ef6/test/vectors/find               |
 | `REDIS_URL`     | —       | Redis connection string                  |
 
 ---
